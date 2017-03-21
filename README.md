@@ -1,5 +1,6 @@
 # LakersPage
 Lakers'Page  -------Currently only static pages
-![Image text](LakersPage/preview/header.jpg)
+##The effect of the page like this
+![Image text](https://github.com/SaberFu/LakersPage/blob/master/preview/header.jpg)
 ![Image text](https://github.com/SaberFu/LakersPage/blob/master/preview/content.jpg)
-![Image text](LakersPage/preview/footer.jpg)
+![Image text](https://github.com/SaberFu/LakersPage/blob/master/preview/footer.jpg)
